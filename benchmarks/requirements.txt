@@ -4,5 +4,5 @@ pillow
 sklearn==0.0
 tensorflow==1.13.1
 tqdm==4.32.1
-urllib3==1.25.2
+urllib3
 wandb
