@@ -1,4 +1,6 @@
 Keras==2.2.4
+numpy==1.16.3
+pillow
 sklearn==0.0
 tensorflow==1.13.1
 tqdm==4.32.1
